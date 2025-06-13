@@ -8,12 +8,16 @@
 - **포트폴리오 구축 중**: 본 리포지토리는 학습 및 성장 과정을 투명하게 보여주는 포트폴리오입니다.
 
 ---
+
 <br>
 
 ## 📊 GitHub 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeoniee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 ---
+
 <br>
 ## 🛠️ 사용 가능한 기술 스택
 
@@ -34,8 +38,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+
 <br>
+
 ---
+
 <br>
 ## 💡 주요 프로젝트
 
@@ -45,7 +52,9 @@ CLI 기반의 포인트 적립 시스템, 중복 코드 제거, 전역 주문 �
 
 
 <br>
+
 ---
+
 <br>
 ## 🌱 현재 배우고 있는 것
 
@@ -53,15 +62,20 @@ CLI 기반의 포인트 적립 시스템, 중복 코드 제거, 전역 주문 �
 - 머신러닝 모델 성능 비교 및 하이퍼파라미터 튜닝
 
 <br>
+
 ---
+
 <br>
 ## 🎨 취미와 가치
 
 🎾 테니스 레슨 & 🎤 보컬    
 🐶 2021년생 푸들 '네오'와 함께...    
 🧠 INFJ
+
 <br>
+
 ---
+
 <br>
 📬 **Contact**  
 📧 Email: [gayoniee16@gmail.com]   
