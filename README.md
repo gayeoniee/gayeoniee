@@ -1,10 +1,13 @@
 # gayoniee
+## 🙋‍♀️ About Me
 
-🎓 서울사이버대학교 | 빅데이터 정보보호학과   
-🚀 LG U+ WhyNot Camp 7기 | 데이터 분석 & 클라우드 기반 서비스 개발     
-🎯 데이터 사이언티스트를 꿈꾸며 머신러닝과 시각화 중심의 실무형 분석가를 목표로 학습하고 있습니다.   
+- **이름**: 홍가연 (Big Data & InfoSec major)
+- **관심 분야**: Python, Data Analytics, Machine Learning
+- **목표**: 기초부터 탄탄히 다진 실력을 바탕으로 **데이터 사이언티스트**로 성장하는 것
+- **포트폴리오 구축 중**: 본 리포지토리는 학습 및 성장 과정을 투명하게 보여주는 포트폴리오입니다.
 
 ---
+
 
 ## 📊 GitHub 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeoniee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -60,6 +63,10 @@ CLI 기반의 포인트 적립 시스템, 중복 코드 제거, 전역 주문 �
 ---
 
 📬 **Contact**  
-Email: gayoniee16@gmail.com  
-Portfolio: [https://github.com/gayeoniee] 
+📧 Email: [gayoniee16@gmail.com]   
+💼 GitHub: [https://github.com/gayeoniee]   
+📝 Blog: [https://velog.io/@feel_so_fine/posts]   
+
+개선사항 제안이나 질문은 언제든지 mail을 통해 주세요. 🙏  
+더 나은 학습자료로 발전시키겠습니다!
 
