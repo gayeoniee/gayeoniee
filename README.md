@@ -11,7 +11,7 @@
 
 
 ## 📊 GitHub 통계
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeoniee&layout=compact)
+![Top Langs](https://github-readme-stats-nu-eight-25.vercel.app/api/top-langs/?username=gayeoniee&layout=compact)
 
 
 ---
