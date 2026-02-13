@@ -1,112 +1,123 @@
-# gayoniee
+# 안녕하세요 홍가연입니다 👋
+
+> 복잡한 것을 단순하게, 단절된 것을 연결되게.
+> 숫자 뒤에 숨은 이유가 궁금한 사람입니다.
+
+---
 
 ## 🙋‍♀️ About Me
 
-- **이름**: 홍가연 (Big Data & InfoSec major)
-- **관심 분야**: Python, Data Analytics, Machine Learning
-- **목표**: 기초부터 탄탄히 다진 실력을 바탕으로 **AI 개발자**로 성장하는 것
-- **포트폴리오 구축 중**: 본 리포지토리는 학습 및 성장 과정을 투명하게 보여주는 포트폴리오입니다.
+- 서울사이버대학교 빅데이터·정보보호학과
+- LG U+ WhyNot SW Camp 7기 수료
+- PM 양성과정 (서비스기획, SQL, 유저인터뷰, BM 설계)
+- 교내 AI 경진대회 최우수상 (Kaggle 기반 이미지 분류)
+
+데이터로 문제를 정의하고, 기술로 솔루션을 만들고, 끝까지 실행합니다.
+PM, Data Analyst, AI 개발 — 기획부터 구현까지 경험하며 성장하고 있습니다.
 
 ---
-
 
 ## 📊 GitHub 통계
+
 ![Top Langs](https://github-readme-stats-nu-eight-25.vercel.app/api/top-langs/?username=gayeoniee&layout=compact)
 
-
 ---
-<br>
 
-## 🛠️ 사용 가능한 기술 스택
+## 🛠️ Skills
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 📚 Data & ML Libraries
+### Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 ![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-### ☁️ Cloud · Backend · Tools
+### Cloud · Infra · Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<br>
+### Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
-
-<br>
 
 ## 💡 주요 프로젝트
 
-### 🧊 CookUs – 냉장고 재료 기반 레시피 & 식단 관리 서비스
-LG U+ WhyNot Camp 7기 팀 프로젝트로, 냉장고 재료를 기반으로 레시피를 추천하고 식단·영양제 기록, 대시보드 분석까지 제공하는 풀스택 서비스입니다.  
-- 역할: 팀장/PM, 데이터 분석 및 클라우드 인프라 설계, 배포 파이프라인 구성  
-- 주요 기능: 재료 기반 레시피 추천, 캘린더 식단 기록, 영양제 섭취 관리, 뱃지·대시보드 제공  
-- 인프라: AWS EC2·ECR·Route 53, Docker, GitHub Actions CI/CD  
-- 기술 스택: Python, FastAPI, React + TypeScript, MariaDB/MySQL, Streamlit, AWS, Docker  
+### 🧊 [CookUs](https://github.com/geonjeonji-labs) – PM & DevOps
+냉장고 재료 기반 레시피 추천 서비스 (4인 팀 프로젝트)
+- **역할**: PM, Frontend Lead, DevOps
+- **문제 해결**: LLM 전량 호출의 비효율 발견 → DB 필터링 + LLM 하이브리드 방식 설계
+- **성과**: 배포 시간 85% 단축 (20분→3분), 휴먼 에러 0건
+- **기술**: React, FastAPI, MariaDB, Docker, GitHub Actions, AWS
 
-### 📊 Data Analytics & ML Projects
-데이터 사이언티스트를 목표로 다양한 도메인의 데이터를 탐색·모델링하며 분석 역량을 쌓고 있습니다.  
-- 소매 매출(Walmart 등) 데이터: 시계열·프로모션 효과 분석, 매출 패턴 파악  
-- 항공 지연률 분석: 요일·시간대·공항별 지연 패턴 EDA 및 시각화  
-- 중고차 가격 예측: 회귀 모델(XGBoost, RandomForest 등) 비교 및 과적합 진단  
-- UK Road Safety: 사고 심각도·도로 유형·운전자 특성 기반 위험요인 분석 (PySpark 활용)  
-- 공연 관객 데이터(KOPIS): 관객 충성도·이탈 요인 분석 기획, 클러스터링 기반 세그먼트 설계  
+### 📄 [Paperly](https://github.com/gayeoniee/paperly_project.git) – AI 기획 & 개발
+인쇄 산업 장인과 디자이너를 연결하는 B2B2C DX 플랫폼
+- **역할**: 기획(PRD, 유저플로우), 풀스택 개발
+- **문제 해결**: 감성 언어 ↔ 기술 언어 번역 → Gemini AI 기반 키워드 큐레이션
+- **기술**: React, Vite, Supabase, Gemini AI, Cloudflare
 
-<br>
+### 🔍 [Tooktook](https://github.com/gayeoniee/Tooktook_personal.git) – AI 아키텍처 설계
+정책 문서 기반 상담 지원 RAG 시스템
+- **역할**: AI 솔루션 기획, 아키텍처 설계
+- **문제 해결**: Fine-tuning vs RAG 비교 분석 → 업데이트 주기 특성상 RAG 채택
+- **기술**: Python, 벡터 DB, 임베딩, LLM
+
+### 📊 데이터 분석 프로젝트
+| 프로젝트 | 내용 | 핵심 성과 |
+|---------|------|----------|
+| [월마트 구매 분석](https://github.com/gayeoniee/data_anal_rep/tree/main/data_anal_project(Walmart)) | 55만건 EDA → 핵심 고객군 추출 | 상관계수 0.73, 마케팅 전략 3가지 도출 |
+| [자전거 대여 예측](https://github.com/gayeoniee/data_anal_ml/tree/main/Bike%20%EB%8C%80%EC%97%AC%EB%9F%89) | 5개 ML 모델 비교 | LGBM R²=0.94, Kaggle 155등 |
+| 항공사 지연 분석 | 지연 유형별 원인 분석, VIF 검증 | 항공사별 개선 우선순위 도출 |
 
 ---
 
-<br>
+## 📜 자격증
 
-## 🌱 현재 배우고 있는 것
+| 자격증 | 취득일 |
+|--------|--------|
+| 정보처리기사 | 2025.12 |
+| AIBT 2급 | 2026.01 |
+| Azure Fundamentals | 2025.03 |
+| Azure Data Fundamentals | 2025.02 |
+| Azure AI Fundamentals | 2025.01 |
+| AWS Cloud Foundations | 2025.12 |
+| ADsP | 취득 예정 |
+| SQLD | 준비 중 |
 
-- Python 기반 데이터 분석 심화 (NumPy·Pandas로 EDA, 피처 엔지니어링)
-- 분류·회귀 모델 성능 비교, 교차검증, 하이퍼파라미터 튜닝(sklearn, XGBoost)
-- PySpark를 활용한 대용량 데이터 처리 및 분산 분석
-- 통계 기초(확률, 분포, 중심극한정리, 베이즈 정리 등)와 모델 해석력 강화
-- 딥러닝 기초 이론 및 Keras 기반 MLP/다중분류 실습
-- AWS 중심 클라우드 인프라 구성(EC2, ECR, S3, RDS/MariaDB) 및 CI/CD 자동화
+---
 
-<br>
+## 🌱 학습 중
 
-## 🎨 취미와 가치
+- SQL 심화 & Tableau 대시보드 프로젝트
+- 통계 기초 (확률, 분포, 가설검정)
+- PySpark 대용량 데이터 처리
 
-🎾 테니스 레슨 & 🎤 보컬    
-🐶 2021년생 푸들 '네오'와 함께...    
+---
+
+## 🎨 About
+
+🎾 테니스 & 🎤 보컬
+🐶 2021년생 푸들 '네오'와 함께
 🧠 INFJ
 
-<br>
-
 ---
 
-<br>
+## 📬 Contact
 
-📬 **Contact**  
-📧 Email: [gayoniee16@gmail.com]   
-💼 GitHub: [https://github.com/gayeoniee]   
-📝 Blog: [https://velog.io/@feel_so_fine/posts]   
-
-개선사항 제안이나 질문은 언제든지 mail을 통해 주세요. 🙏  
-더 나은 학습자료로 발전시키겠습니다!
-
+- 📧 Email: gayoniee16@gmail.com
+- 💼 GitHub: [github.com/gayeoniee](https://github.com/gayeoniee)
+- 📝 Blog: [velog.io/@feel_so_fine](https://velog.io/@feel_so_fine/posts)
