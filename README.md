@@ -95,7 +95,7 @@ PM, Data Analyst, AI 개발 — 기획부터 구현까지 경험하며 성장하
 | Azure Data Fundamentals | 2025.02 |
 | Azure AI Fundamentals | 2025.01 |
 | AWS Cloud Foundations | 2025.12 |
-| ADsP | 취득 예정 |
+| ADsP | 2026.02 |
 | SQLD | 준비 중 |
 
 ---
